@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IzanK020
 - 👀 I’m interested in Theorical Physics
-- 🌱 I’m currently learning Root-Cern, Python and constantly learning C++
+- 🌱 I’m currently learning Root-Cern, Python and always learning C++
 - 💞️ I’m looking to collaborate on Matlab/GNU Octave, Root-Cern, C++ and Python
 - 📫 How to reach me ...
 
